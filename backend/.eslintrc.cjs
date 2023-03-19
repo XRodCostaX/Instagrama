@@ -47,5 +47,6 @@ module.exports = {
     'react/button-has-type': 0,
     'no-extra-boolean-cast': 0,
     'react/jsx-props-no-spreading': 0,
+    'import/extensions': 0,
   },
 };
